@@ -1,0 +1,165 @@
+{
+    "article_id": "PMC6738101",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [
+        "The primary endpoint was progression-free survival (PFS).",
+        "Methods - Statistical analysis\nThe primary endpoint was PFS, as assessed by the Independent Central Review Committee (IRC).",
+        "Resection rate is often used as the primary endpoint for phase II studies evaluating chemotherapy for CRLM."
+    ],
+    "registry_id": "NCT01836653",
+    "registry_primary_outcomes": [
+        "Progression-free survival , assessed every 8 weeks"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 2,
+            "tokens": [
+                "Resection",
+                "rate",
+                "is",
+                "often",
+                "used",
+                "as",
+                "the",
+                "primary",
+                "endpoint",
+                "for",
+                "phase",
+                "II",
+                "studies",
+                "evaluating",
+                "chemotherapy",
+                "for",
+                "CRLM",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        },
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "progression-free",
+                "survival",
+                "(",
+                "PFS",
+                ")",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        },
+        {
+            "sentence_nb": 1,
+            "tokens": [
+                "Methods",
+                "-",
+                "Statistical",
+                "analysis",
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "PFS",
+                ",",
+                "as",
+                "assessed",
+                "by",
+                "the",
+                "Independent",
+                "Central",
+                "Review",
+                "Committee",
+                "(",
+                "IRC",
+                ")",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "PFS , as assessed by the Independent Central Review Committee ( IRC )",
+        "progression-free survival ( PFS )"
+    ],
+    "article2article_connections": [
+        [
+            0,
+            1,
+            true
+        ]
+    ],
+    "filtered_article_outcomes": [
+        "PFS , as assessed by the Independent Central Review Committee ( IRC )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

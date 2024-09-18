@@ -1,0 +1,125 @@
+{
+    "article_id": "31003911",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary endpoint was overall survival in the intention-to-treat population.",
+        "Abstract - INTERPRETATION\nIMblaze370 did not meet its primary endpoint of improved overall survival with atezolizumab plus cobimetinib or atezolizumab versus regorafenib."
+    ],
+    "registry_id": "NCT02788279",
+    "registry_primary_outcomes": [
+        "Overall Survival (OS) , Baseline up to death (up to 3 years)"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 1,
+            "tokens": [
+                "Abstract",
+                "-",
+                "INTERPRETATION",
+                "IMblaze370",
+                "did",
+                "not",
+                "meet",
+                "its",
+                "primary",
+                "endpoint",
+                "of",
+                "improved",
+                "overall",
+                "survival",
+                "with",
+                "atezolizumab",
+                "plus",
+                "cobimetinib",
+                "or",
+                "atezolizumab",
+                "versus",
+                "regorafenib",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        },
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "overall",
+                "survival",
+                "in",
+                "the",
+                "intention-to-treat",
+                "population",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "overall survival in the intention-to-treat population",
+        "overall survival"
+    ],
+    "article2article_connections": [
+        [
+            0,
+            1,
+            true
+        ]
+    ],
+    "filtered_article_outcomes": [
+        "overall survival in the intention-to-treat population"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

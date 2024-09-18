@@ -1,0 +1,18 @@
+{
+    "article_id": "PMC6379817",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [],
+    "article_primary_outcomes": [],
+    "registry_id": "NCT03642652",
+    "registry_primary_outcomes": [
+        "Follow-up colonoscopy 120 days after a positive fecal occult blood test , 120 days after positive FOBT"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    }
+}

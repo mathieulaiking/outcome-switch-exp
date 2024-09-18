@@ -1,0 +1,132 @@
+{
+    "article_id": "PMC6724166",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [
+        "Methods - Study Outcomes\nThe primary outcome was CRC screening completion (FIT or colonoscopy) within 4 months of initial outreach.",
+        "We also performed subgroup analyses for the primary outcome by sex, race/ethnicity, and practice site."
+    ],
+    "registry_id": "NCT03246438",
+    "registry_primary_outcomes": [
+        "CRC screening completion , 4 months"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 1,
+            "tokens": [
+                "We",
+                "also",
+                "performed",
+                "subgroup",
+                "analyses",
+                "for",
+                "the",
+                "primary",
+                "outcome",
+                "by",
+                "sex",
+                ",",
+                "race",
+                "/",
+                "ethnicity",
+                ",",
+                "and",
+                "practice",
+                "site",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        },
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Methods",
+                "-",
+                "Study",
+                "Outcomes",
+                "The",
+                "primary",
+                "outcome",
+                "was",
+                "CRC",
+                "screening",
+                "completion",
+                "(",
+                "FIT",
+                "or",
+                "colonoscopy",
+                ")",
+                "within",
+                "4",
+                "months",
+                "of",
+                "initial",
+                "outreach",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "CRC screening completion ( FIT or colonoscopy ) within 4 months of initial outreach"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "article_id": "31599809",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary endpoint was local recurrence."
+    ],
+    "registry_id": "NCT01437514",
+    "registry_primary_outcomes": [
+        "local recurrence , 3 years"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "local",
+                "recurrence",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "local recurrence"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "article_id": "32172198",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "CRF was evaluated using the mean area under the curve (AUC) change from baseline of brief fatigue inventory (BFI) as the primary endpoint."
+    ],
+    "registry_id": "NCT02039635",
+    "registry_primary_outcomes": [
+        "Area Under Curve (AUC) of Brief Fatigue Index (BFI) on the intake trial drugs up to 16 weeks , From Baseline up to 16 weeks"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "CRF",
+                "was",
+                "evaluated",
+                "using",
+                "the",
+                "mean",
+                "area",
+                "under",
+                "the",
+                "curve",
+                "(",
+                "AUC",
+                ")",
+                "change",
+                "from",
+                "baseline",
+                "of",
+                "brief",
+                "fatigue",
+                "inventory",
+                "(",
+                "BFI",
+                ")",
+                "as",
+                "the",
+                "primary",
+                "endpoint",
+                "."
+            ],
+            "labels": [
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "CRF was evaluated using the mean area under the curve ( AUC ) change from baseline of brief fatigue inventory ( BFI )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "article_id": "PMC7251946",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [
+        "2.5\n\nMaterials and methods - Study outcomes\nThe primary outcome of interest was the percentage of patients completing the mailed FIT within 3months of initial outreach."
+    ],
+    "registry_id": "NCT03072095",
+    "registry_primary_outcomes": [
+        "FIT completion within 3 months , 3 months"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "2.5",
+                "Materials",
+                "and",
+                "methods",
+                "-",
+                "Study",
+                "outcomes",
+                "The",
+                "primary",
+                "outcome",
+                "of",
+                "interest",
+                "was",
+                "the",
+                "percentage",
+                "of",
+                "patients",
+                "completing",
+                "the",
+                "mailed",
+                "FIT",
+                "within",
+                "3months",
+                "of",
+                "initial",
+                "outreach",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "percentage of patients completing the mailed FIT within 3months of initial outreach"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

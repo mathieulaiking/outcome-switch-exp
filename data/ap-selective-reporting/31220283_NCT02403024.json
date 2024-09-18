@@ -1,0 +1,221 @@
+{
+    "article_id": "31220283",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Abstract - MAIN OUTCOME MEASURES\nChanges from baseline to week 12 in maximum oxygen uptake (VO2peak) by cardiopulmonary exercise test, glycemic control by oral glucose tolerance test (OGTT), body composition by dual-energy x-ray absorptiometry scan, blood biochemistry, and quality of life."
+    ],
+    "registry_id": "NCT02403024",
+    "registry_primary_outcomes": [
+        "Change in VO2peak , Baseline to week 12"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Abstract",
+                "-",
+                "MAIN",
+                "OUTCOME",
+                "MEASURES",
+                "Changes",
+                "from",
+                "baseline",
+                "to",
+                "week",
+                "12",
+                "in",
+                "maximum",
+                "oxygen",
+                "uptake",
+                "(",
+                "VO2peak",
+                ")",
+                "by",
+                "cardiopulmonary",
+                "exercise",
+                "test",
+                ",",
+                "glycemic",
+                "control",
+                "by",
+                "oral",
+                "glucose",
+                "tolerance",
+                "test",
+                "(",
+                "OGTT",
+                ")",
+                ",",
+                "body",
+                "composition",
+                "by",
+                "dual-energy",
+                "x-ray",
+                "absorptiometry",
+                "scan",
+                ",",
+                "blood",
+                "biochemistry",
+                ",",
+                "and",
+                "quality",
+                "of",
+                "life",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "quality of life",
+        "body composition by dual-energy x-ray absorptiometry scan",
+        "blood biochemistry",
+        "glycemic control by oral glucose tolerance test ( OGTT )",
+        "Changes from baseline to week 12 in maximum oxygen uptake ( VO2peak ) by cardiopulmonary exercise test"
+    ],
+    "article2article_connections": [
+        [
+            0,
+            1,
+            false
+        ],
+        [
+            0,
+            2,
+            false
+        ],
+        [
+            0,
+            3,
+            false
+        ],
+        [
+            0,
+            4,
+            false
+        ],
+        [
+            1,
+            2,
+            false
+        ],
+        [
+            1,
+            3,
+            false
+        ],
+        [
+            1,
+            4,
+            false
+        ],
+        [
+            2,
+            3,
+            false
+        ],
+        [
+            2,
+            4,
+            false
+        ],
+        [
+            3,
+            4,
+            false
+        ]
+    ],
+    "filtered_article_outcomes": [
+        "quality of life",
+        "body composition by dual-energy x-ray absorptiometry scan",
+        "blood biochemistry",
+        "glycemic control by oral glucose tolerance test ( OGTT )",
+        "Changes from baseline to week 12 in maximum oxygen uptake ( VO2peak ) by cardiopulmonary exercise test"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": false
+        },
+        {
+            "article_index": 1,
+            "registry_index": 0,
+            "similar": false
+        },
+        {
+            "article_index": 2,
+            "registry_index": 0,
+            "similar": false
+        },
+        {
+            "article_index": 3,
+            "registry_index": 0,
+            "similar": false
+        },
+        {
+            "article_index": 4,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

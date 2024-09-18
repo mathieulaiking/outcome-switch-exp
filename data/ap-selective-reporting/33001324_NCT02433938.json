@@ -1,0 +1,78 @@
+{
+    "article_id": "33001324",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary endpoint was the time of recovery of gastrointestinal motility, measured as the first passage of stool."
+    ],
+    "registry_id": "NCT02433938",
+    "registry_primary_outcomes": [
+        "bowel function recovery (Time to first bowel movement or flatus) , 7 days"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "Yes",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "Yes",
+        "POS_timeframe_metric": "Yes",
+        "Description": "Definition"
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "the",
+                "time",
+                "of",
+                "recovery",
+                "of",
+                "gastrointestinal",
+                "motility",
+                ",",
+                "measured",
+                "as",
+                "the",
+                "first",
+                "passage",
+                "of",
+                "stool",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "time of recovery of gastrointestinal motility , measured as the first passage of stool"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": false
+        }
+    ]
+}

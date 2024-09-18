@@ -1,0 +1,108 @@
+{
+    "article_id": "32334845",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Progression-free survival (PFS) was the primary end point, and overall survival, objective response rate, and time to treatment failure as well as safety and immunogenicity were secondary end points."
+    ],
+    "registry_id": "NCT03288987",
+    "registry_primary_outcomes": [
+        "Progression Free Survival (PFS) , PFS was measured from the start of chemotherapy to the date of disease progression or to the date of death if no progression whichever came first, assessed up to 12 months"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Progression-free",
+                "survival",
+                "(",
+                "PFS",
+                ")",
+                "was",
+                "the",
+                "primary",
+                "end",
+                "point",
+                ",",
+                "and",
+                "overall",
+                "survival",
+                ",",
+                "objective",
+                "response",
+                "rate",
+                ",",
+                "and",
+                "time",
+                "to",
+                "treatment",
+                "failure",
+                "as",
+                "well",
+                "as",
+                "safety",
+                "and",
+                "immunogenicity",
+                "were",
+                "secondary",
+                "end",
+                "points",
+                "."
+            ],
+            "labels": [
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "Progression-free survival ( PFS )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

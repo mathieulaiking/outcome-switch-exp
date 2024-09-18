@@ -1,0 +1,64 @@
+{
+    "article_id": "PMC6446899",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary outcome was FIT return."
+    ],
+    "registry_id": "NCT03176082",
+    "registry_primary_outcomes": [
+        "Number of participants who completed fecal testing, screening colonoscopy, and colonoscopies following positive fecal testing, \u2022 , 12 months following baseline",
+        "Diagnoses of colorectal Cancer , 12 months following baseline",
+        "Polypectomies , 12 months following baseline"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "Yes",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "Yes",
+        "POS_timeframe_metric": "Yes",
+        "Description": "Definition"
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "outcome",
+                "was",
+                "FIT",
+                "return",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "FIT return"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": false
+        },
+        {
+            "article_index": 0,
+            "registry_index": 1,
+            "similar": false
+        },
+        {
+            "article_index": 0,
+            "registry_index": 2,
+            "similar": false
+        }
+    ]
+}

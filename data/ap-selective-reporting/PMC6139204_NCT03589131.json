@@ -1,0 +1,18 @@
+{
+    "article_id": "PMC6139204",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [],
+    "article_primary_outcomes": [],
+    "registry_id": "NCT03589131",
+    "registry_primary_outcomes": [
+        "Operative time of robotic-assisted rectal cancer surgery. , 30 days postoperative"
+    ],
+    "labels": {
+        "POS_identif_possible": "No",
+        "PO_switch": "",
+        "PO_not_reported_registry": "",
+        "PO_not_reported_publication": "",
+        "POS_timeframe_metric": "",
+        "Description": ""
+    }
+}

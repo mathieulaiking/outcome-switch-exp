@@ -1,0 +1,110 @@
+{
+    "article_id": "30366156",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary outcome was additional polyp detection rate, defined as the number of polyps detected during the second inspection divided by the total number of polyps detected during the first and the second examination."
+    ],
+    "registry_id": "NCT03476434",
+    "registry_primary_outcomes": [
+        "polyp miss rate , through study completion, an average of 2 years"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "outcome",
+                "was",
+                "additional",
+                "polyp",
+                "detection",
+                "rate",
+                ",",
+                "defined",
+                "as",
+                "the",
+                "number",
+                "of",
+                "polyps",
+                "detected",
+                "during",
+                "the",
+                "second",
+                "inspection",
+                "divided",
+                "by",
+                "the",
+                "total",
+                "number",
+                "of",
+                "polyps",
+                "detected",
+                "during",
+                "the",
+                "first",
+                "and",
+                "the",
+                "second",
+                "examination",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "additional polyp detection rate , defined as the number of polyps detected during the second inspection divided by the total number of polyps detected during the first and the second examination"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

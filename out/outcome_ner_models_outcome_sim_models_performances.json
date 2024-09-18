@@ -1,0 +1,7 @@
+{
+    "ner_model": "outcome_ner_models",
+    "sim_model": "outcome_sim_models",
+    "sim_threshold": 0.4004036486148834,
+    "perfect_match": 33,
+    "approximate_match": 48
+}

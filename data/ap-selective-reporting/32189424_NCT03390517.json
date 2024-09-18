@@ -1,0 +1,78 @@
+{
+    "article_id": "32189424",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary end-point was to assess whether ICG FA was associated with a reduction in the incidence of AL."
+    ],
+    "registry_id": "NCT03390517",
+    "registry_primary_outcomes": [
+        "Anastomotic Leak Rate , 0 to 30 days"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "end-point",
+                "was",
+                "to",
+                "assess",
+                "whether",
+                "ICG",
+                "FA",
+                "was",
+                "associated",
+                "with",
+                "a",
+                "reduction",
+                "in",
+                "the",
+                "incidence",
+                "of",
+                "AL",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "reduction in the incidence of AL"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

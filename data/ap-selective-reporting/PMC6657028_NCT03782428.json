@@ -1,0 +1,18 @@
+{
+    "article_id": "PMC6657028",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [],
+    "article_primary_outcomes": [],
+    "registry_id": "NCT03782428",
+    "registry_primary_outcomes": [
+        "Level of circulating inflammatory cytokines (TNF-\u03b1, IFN-\u03b3, IL-6, IL-10, IL-12, IL-17A, IL17C &IL-22) pre and post intervention. , Change from pre intervention baseline level at post six months intervention."
+    ],
+    "labels": {
+        "POS_identif_possible": "No",
+        "PO_switch": "",
+        "PO_not_reported_registry": "",
+        "PO_not_reported_publication": "",
+        "POS_timeframe_metric": "",
+        "Description": ""
+    }
+}

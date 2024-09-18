@@ -1,0 +1,177 @@
+{
+    "article_id": "30578103",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Main outcomes included perceived CRC risk, intent to be screened, and test preference, measured before and after viewing decision aid, and screening uptake at six months."
+    ],
+    "registry_id": "NCT02477553",
+    "registry_primary_outcomes": [
+        "Self-report CRC screening completion with medical record verification of screening test completion , 6 months post intervention",
+        "Self-report CRC screening intention , 1 day"
+    ],
+    "labels": {
+        "POS_identif_possible": "No",
+        "PO_switch": "",
+        "PO_not_reported_registry": "",
+        "PO_not_reported_publication": "",
+        "POS_timeframe_metric": "",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Main",
+                "outcomes",
+                "included",
+                "perceived",
+                "CRC",
+                "risk",
+                ",",
+                "intent",
+                "to",
+                "be",
+                "screened",
+                ",",
+                "and",
+                "test",
+                "preference",
+                ",",
+                "measured",
+                "before",
+                "and",
+                "after",
+                "viewing",
+                "decision",
+                "aid",
+                ",",
+                "and",
+                "screening",
+                "uptake",
+                "at",
+                "six",
+                "months",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "intent to be screened",
+        "test preference , measured before and after viewing decision aid",
+        "screening uptake at six months",
+        "perceived CRC risk"
+    ],
+    "article2article_connections": [
+        [
+            0,
+            1,
+            false
+        ],
+        [
+            0,
+            2,
+            false
+        ],
+        [
+            0,
+            3,
+            false
+        ],
+        [
+            1,
+            2,
+            false
+        ],
+        [
+            1,
+            3,
+            false
+        ],
+        [
+            2,
+            3,
+            false
+        ]
+    ],
+    "filtered_article_outcomes": [
+        "intent to be screened",
+        "test preference , measured before and after viewing decision aid",
+        "screening uptake at six months",
+        "perceived CRC risk"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": false
+        },
+        {
+            "article_index": 0,
+            "registry_index": 1,
+            "similar": true
+        },
+        {
+            "article_index": 1,
+            "registry_index": 0,
+            "similar": false
+        },
+        {
+            "article_index": 1,
+            "registry_index": 1,
+            "similar": false
+        },
+        {
+            "article_index": 2,
+            "registry_index": 0,
+            "similar": true
+        },
+        {
+            "article_index": 2,
+            "registry_index": 1,
+            "similar": false
+        },
+        {
+            "article_index": 3,
+            "registry_index": 0,
+            "similar": false
+        },
+        {
+            "article_index": 3,
+            "registry_index": 1,
+            "similar": false
+        }
+    ]
+}

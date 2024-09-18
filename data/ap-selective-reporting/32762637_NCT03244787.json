@@ -1,0 +1,78 @@
+{
+    "article_id": "32762637",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The main measure was proportion of patients completing CRC screening in intervention and usual care groups."
+    ],
+    "registry_id": "NCT03244787",
+    "registry_primary_outcomes": [
+        "Percentage of patients in intervention and control groups who completed any colorectal cancer screening during the six-month study period , 6 months",
+        "Percentage of patients in intervention and control groups who completed any colorectal cancer screening during the six-month study period , 6 months"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "main",
+                "measure",
+                "was",
+                "proportion",
+                "of",
+                "patients",
+                "completing",
+                "CRC",
+                "screening",
+                "in",
+                "intervention",
+                "and",
+                "usual",
+                "care",
+                "groups",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "proportion of patients completing CRC screening"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        },
+        {
+            "article_index": 0,
+            "registry_index": 1,
+            "similar": true
+        }
+    ]
+}

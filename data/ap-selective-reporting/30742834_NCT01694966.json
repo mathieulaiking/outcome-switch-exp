@@ -1,0 +1,82 @@
+{
+    "article_id": "30742834",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary endpoint was the proportion of patients with 1 adenoma or carcinoma (adenoma detection rate [ADR])."
+    ],
+    "registry_id": "NCT01694966",
+    "registry_primary_outcomes": [
+        "To Assess the Detection Efficacy of Chromoendoscopy Performed With 200mg Methylene Blue MMX\u00ae 25 mg Tablets Versus Placebo Tablets (White Light Endoscopy) in Terms of the Proportion of Subjects With at Least One Histologically Proven Adenoma or Carcinoma. , +7 days"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "the",
+                "proportion",
+                "of",
+                "patients",
+                "with",
+                "1",
+                "adenoma",
+                "or",
+                "carcinoma",
+                "(",
+                "adenoma",
+                "detection",
+                "rate",
+                "[",
+                "ADR",
+                "]",
+                ")",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "proportion of patients with 1 adenoma or carcinoma ( adenoma detection rate [ ADR ] )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

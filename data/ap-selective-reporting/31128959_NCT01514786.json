@@ -1,0 +1,76 @@
+{
+    "article_id": "31128959",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Abstract - MAIN OUTCOME MEASURES\nPrimary outcome was medical record documentation of CRCS 6 months after the intervention."
+    ],
+    "registry_id": "NCT01514786",
+    "registry_primary_outcomes": [
+        "The measurement of the impact of Colorectal Web on patient uptake of CRCS on patient determinants/preference/intention before the patient-physician encounter, and on SDM, concordance and patient intention during and after the patient-physician encounter. , 6 months following intervention a chart audit will be conducted to determine if CRCS was completed."
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "Yes",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "Yes",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Abstract",
+                "-",
+                "MAIN",
+                "OUTCOME",
+                "MEASURES",
+                "Primary",
+                "outcome",
+                "was",
+                "medical",
+                "record",
+                "documentation",
+                "of",
+                "CRCS",
+                "6",
+                "months",
+                "after",
+                "the",
+                "intervention",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "medical record documentation of CRCS 6 months after the intervention"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

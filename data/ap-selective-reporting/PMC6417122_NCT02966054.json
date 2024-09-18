@@ -1,0 +1,18 @@
+{
+    "article_id": "PMC6417122",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [],
+    "article_primary_outcomes": [],
+    "registry_id": "NCT02966054",
+    "registry_primary_outcomes": [
+        "Physical activity , 12-weeks"
+    ],
+    "labels": {
+        "POS_identif_possible": "No",
+        "PO_switch": "",
+        "PO_not_reported_registry": "",
+        "PO_not_reported_publication": "",
+        "POS_timeframe_metric": "",
+        "Description": ""
+    }
+}

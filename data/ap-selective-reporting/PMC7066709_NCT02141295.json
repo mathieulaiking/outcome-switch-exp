@@ -1,0 +1,173 @@
+{
+    "article_id": "PMC7066709",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [
+        "The primary endpoint was investigatorassessed PFS.",
+        "Patients and Methods - Study Endpoints\nThe primary endpoint was PFS defined as the time from randomization to the date of first documented occurrence of progression based on RECIST version 1.1 criteria, as determined by the investigator, or death from any cause on study, whichever occurred first."
+    ],
+    "registry_id": "NCT02141295",
+    "registry_primary_outcomes": [
+        "Progression-free survival (PFS) based on response evaluation criteria in solid tumors (RECIST) v. 1.1 , Up to 28 months"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 1,
+            "tokens": [
+                "Patients",
+                "and",
+                "Methods",
+                "-",
+                "Study",
+                "Endpoints",
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "PFS",
+                "defined",
+                "as",
+                "the",
+                "time",
+                "from",
+                "randomization",
+                "to",
+                "the",
+                "date",
+                "of",
+                "first",
+                "documented",
+                "occurrence",
+                "of",
+                "progression",
+                "based",
+                "on",
+                "RECIST",
+                "version",
+                "1.1",
+                "criteria",
+                ",",
+                "as",
+                "determined",
+                "by",
+                "the",
+                "investigator",
+                ",",
+                "or",
+                "death",
+                "from",
+                "any",
+                "cause",
+                "on",
+                "study",
+                ",",
+                "whichever",
+                "occurred",
+                "first",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        },
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "investigatorassessed",
+                "PFS",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "PFS defined as the time from randomization to the date of first documented occurrence of progression based on RECIST version 1.1 criteria , as determined by the investigator , or death from any cause on study , whichever occurred first",
+        "investigatorassessed PFS"
+    ],
+    "article2article_connections": [
+        [
+            0,
+            1,
+            true
+        ]
+    ],
+    "filtered_article_outcomes": [
+        "PFS defined as the time from randomization to the date of first documented occurrence of progression based on RECIST version 1.1 criteria , as determined by the investigator , or death from any cause on study , whichever occurred first"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

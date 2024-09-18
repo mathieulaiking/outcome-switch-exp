@@ -1,0 +1,68 @@
+{
+    "article_id": "32209911",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary outcome was the rate of major complications within 60 days following surgery."
+    ],
+    "registry_id": "NCT00264979",
+    "registry_primary_outcomes": [
+        "Rate of patients with at least one postoperative severe complication within 60 days after each surgery"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "outcome",
+                "was",
+                "the",
+                "rate",
+                "of",
+                "major",
+                "complications",
+                "within",
+                "60",
+                "days",
+                "following",
+                "surgery",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "rate of major complications within 60 days following surgery"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

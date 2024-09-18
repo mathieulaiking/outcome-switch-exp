@@ -1,0 +1,60 @@
+{
+    "article_id": "PMC7561567",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [
+        "No primary endpoint was specified due to the exploratory nature of the study."
+    ],
+    "registry_id": "NCT02792842",
+    "registry_primary_outcomes": [
+        "NCI-CTCAE , 24 weeks",
+        "FACT-G: Functional Assessment of Cancer Therapy - General , 24 weeks",
+        "Discontinuation/ suspension/dose reduction of chemotherapeutic agents , 24 weeks"
+    ],
+    "labels": {
+        "POS_identif_possible": "No",
+        "PO_switch": "",
+        "PO_not_reported_registry": "",
+        "PO_not_reported_publication": "",
+        "POS_timeframe_metric": "",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "No",
+                "primary",
+                "endpoint",
+                "was",
+                "specified",
+                "due",
+                "to",
+                "the",
+                "exploratory",
+                "nature",
+                "of",
+                "the",
+                "study",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [],
+    "article2registry_connections": []
+}

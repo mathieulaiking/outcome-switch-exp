@@ -1,0 +1,92 @@
+{
+    "article_id": "32037284",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The proportion of patients with a clinically relevant decrease in skeletal muscle area of 6.0cm 2, measured by computed tomography, was the primary outcome."
+    ],
+    "registry_id": "NCT01998152",
+    "registry_primary_outcomes": [
+        "Change in skeletal muscle area (cm2)between individualized nutritional counselling versus usual nutritional care , During 9 weeks of palliative chemotherapy"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "Yes",
+        "PO_not_reported_registry": "Yes",
+        "PO_not_reported_publication": "Yes",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "proportion",
+                "of",
+                "patients",
+                "with",
+                "a",
+                "clinically",
+                "relevant",
+                "decrease",
+                "in",
+                "skeletal",
+                "muscle",
+                "area",
+                "of",
+                "6.0cm",
+                "2",
+                ",",
+                "measured",
+                "by",
+                "computed",
+                "tomography",
+                ",",
+                "was",
+                "the",
+                "primary",
+                "outcome",
+                "."
+            ],
+            "labels": [
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "proportion of patients with a clinically relevant decrease in skeletal muscle area of 6.0cm 2 , measured by computed tomography"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "article_id": "PMC6534727",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary end point was progression free survival (PFS) and secondary endpoints included objective response rate (ORR) and tolerability."
+    ],
+    "registry_id": "NCT01722162",
+    "registry_primary_outcomes": [
+        "Median progression free survival , 14 weeks"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "end",
+                "point",
+                "was",
+                "progression",
+                "free",
+                "survival",
+                "(",
+                "PFS",
+                ")",
+                "and",
+                "secondary",
+                "endpoints",
+                "included",
+                "objective",
+                "response",
+                "rate",
+                "(",
+                "ORR",
+                ")",
+                "and",
+                "tolerability",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "progression free survival ( PFS )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

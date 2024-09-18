@@ -1,0 +1,76 @@
+{
+    "article_id": "31273505",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary outcome was based on the QoL measured using the World Health Organization QoL-BREF (WHOOQOL-BREF)."
+    ],
+    "registry_id": "NCT03521765",
+    "registry_primary_outcomes": [
+        "WHOQOL-BREF(the World Health Organization Quality of Life-BREF) , 10 min"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "Yes",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "Yes",
+        "Description": "A/R Time frame"
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "outcome",
+                "was",
+                "based",
+                "on",
+                "the",
+                "QoL",
+                "measured",
+                "using",
+                "the",
+                "World",
+                "Health",
+                "Organization",
+                "QoL-BREF",
+                "(",
+                "WHOOQOL-BREF",
+                ")",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "QoL measured using the World Health Organization QoL-BREF ( WHOOQOL-BREF )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

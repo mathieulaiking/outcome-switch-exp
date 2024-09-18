@@ -1,0 +1,62 @@
+{
+    "article_id": "30054049",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Primary endpoint was progression-free survival (PFS) at 9 months."
+    ],
+    "registry_id": "NCT01161316",
+    "registry_primary_outcomes": [
+        "progression-free survival , 2010-2014"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "Yes",
+        "PO_not_reported_registry": "Yes",
+        "PO_not_reported_publication": "Yes",
+        "POS_timeframe_metric": "Yes",
+        "Description": "A/R Time frame"
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Primary",
+                "endpoint",
+                "was",
+                "progression-free",
+                "survival",
+                "(",
+                "PFS",
+                ")",
+                "at",
+                "9",
+                "months",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "progression-free survival ( PFS ) at 9 months"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

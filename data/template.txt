@@ -1,0 +1,19 @@
+[ article text ]
+{article_sentences}
+
+[ registry primary outcomes ]
+{registry_primary_outcomes}
+
+<LABEL_SPLITTING_TOKEN>
+[ questions about consistency of reporting ]
+Q : Is there any outcome in the article reported as a primary outcome but not registered as such ?
+A : {PO_not_reported_registry}
+
+Q : Is there any outcome registered as a primary outcome but not reported as such in the article ?
+A : {PO_not_reported_publication}
+
+Q : Is there any change in terms of time frame, metric or definition between the primary outcome registered and those reported ?
+A : {POS_timeframe_metric}
+
+Q : If yes, please list the discrepancies :
+A : {Description}

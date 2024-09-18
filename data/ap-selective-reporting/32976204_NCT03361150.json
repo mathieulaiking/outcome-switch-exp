@@ -1,0 +1,92 @@
+{
+    "article_id": "32976204",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Abstract - MAIN OUTCOME MEASURE\nChanges in oxygen consumption at anaerobic threshold, measured with sequential cardio-pulmonary exercise testing, were assessed and compared between groups."
+    ],
+    "registry_id": "NCT03361150",
+    "registry_primary_outcomes": [
+        "Oxygen consumption (VO2) , 4 weeks (before surgery)"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Abstract",
+                "-",
+                "MAIN",
+                "OUTCOME",
+                "MEASURE",
+                "Changes",
+                "in",
+                "oxygen",
+                "consumption",
+                "at",
+                "anaerobic",
+                "threshold",
+                ",",
+                "measured",
+                "with",
+                "sequential",
+                "cardio-pulmonary",
+                "exercise",
+                "testing",
+                ",",
+                "were",
+                "assessed",
+                "and",
+                "compared",
+                "between",
+                "groups",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "Changes in oxygen consumption at anaerobic threshold , measured with sequential cardio-pulmonary exercise testing"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

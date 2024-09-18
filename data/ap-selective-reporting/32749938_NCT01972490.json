@@ -1,0 +1,74 @@
+{
+    "article_id": "32749938",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary end point was the actual rate of patients converted to R0 resection for liver metastases."
+    ],
+    "registry_id": "NCT01972490",
+    "registry_primary_outcomes": [
+        "the rate of venous thromboembolism, the rate of major and minor bleeding , 1 month after the operation"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "Yes",
+        "PO_not_reported_registry": "Yes",
+        "PO_not_reported_publication": "Yes",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "end",
+                "point",
+                "was",
+                "the",
+                "actual",
+                "rate",
+                "of",
+                "patients",
+                "converted",
+                "to",
+                "R0",
+                "resection",
+                "for",
+                "liver",
+                "metastases",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "actual rate of patients converted to R0 resection for liver metastases"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": false
+        }
+    ]
+}

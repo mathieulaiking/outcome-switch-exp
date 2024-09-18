@@ -1,0 +1,64 @@
+{
+    "article_id": "30252681",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Primary endpoint was comparison of composite evacuation scores 12 months after TME."
+    ],
+    "registry_id": "NCT00238381",
+    "registry_primary_outcomes": [
+        "Composite evacuation score after total mesorectal excision , 12 months after surgery"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Primary",
+                "endpoint",
+                "was",
+                "comparison",
+                "of",
+                "composite",
+                "evacuation",
+                "scores",
+                "12",
+                "months",
+                "after",
+                "TME",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "comparison of composite evacuation scores 12 months after TME"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

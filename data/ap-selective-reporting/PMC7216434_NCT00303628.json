@@ -1,0 +1,70 @@
+{
+    "article_id": "PMC7216434",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Abstract - Abstract - Conclusion\nAt 17% of its planned accrual, E5204 did not meet its primary endpoint."
+    ],
+    "registry_id": "NCT00303628",
+    "registry_primary_outcomes": [
+        "5-year Overall Survival Rate , Follow-up assessments performed every 3 months for patients < 2 years from randomization, every 6 months for patients 2-5 years from randomization, and every 12 months for patients 5-10 years from randomization"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Abstract",
+                "-",
+                "Abstract",
+                "-",
+                "Conclusion",
+                "At",
+                "17%",
+                "of",
+                "its",
+                "planned",
+                "accrual",
+                ",",
+                "E5204",
+                "did",
+                "not",
+                "meet",
+                "its",
+                "primary",
+                "endpoint",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [],
+    "article2registry_connections": []
+}

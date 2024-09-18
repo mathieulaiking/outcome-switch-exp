@@ -1,0 +1,133 @@
+{
+    "article_id": "PMC7464811",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [
+        "The primary endpoint was two-year overall survival.",
+        "Study Endpoints and Outcome Parameters\nThe primary endpoint of this study was the comparison of the two-year overall survival rates between the PTR group and the upfront chemotherapy group."
+    ],
+    "registry_id": "NCT01978249",
+    "registry_primary_outcomes": [
+        "Comparison of the overall survival between patients who underwent primary tumor resection and patients who received chemotherapy without primary tumor resection , 2 years after allocation"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 1,
+            "tokens": [
+                "Study",
+                "Endpoints",
+                "and",
+                "Outcome",
+                "Parameters",
+                "The",
+                "primary",
+                "endpoint",
+                "of",
+                "this",
+                "study",
+                "was",
+                "the",
+                "comparison",
+                "of",
+                "the",
+                "two-year",
+                "overall",
+                "survival",
+                "rates",
+                "between",
+                "the",
+                "PTR",
+                "group",
+                "and",
+                "the",
+                "upfront",
+                "chemotherapy",
+                "group",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        },
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "two-year",
+                "overall",
+                "survival",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "two-year overall survival rates",
+        "two-year overall survival"
+    ],
+    "article2article_connections": [
+        [
+            0,
+            1,
+            true
+        ]
+    ],
+    "filtered_article_outcomes": [
+        "two-year overall survival rates"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

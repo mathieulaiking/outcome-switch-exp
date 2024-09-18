@@ -1,0 +1,86 @@
+{
+    "article_id": "PMC7388415",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Abstract - Main outcome measures:\nThe main outcome under investigation was the completion of colorectal cancer screening within 6 months after randomization."
+    ],
+    "registry_id": "NCT02584998",
+    "registry_primary_outcomes": [
+        "The completion rate of FIT within 6 months of the mailing of the screening invitation. Absence of screening completion data in the VA medical record system will be recorded as failure to complete screening. , 6 months"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": "Imprecision"
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Abstract",
+                "-",
+                "Main",
+                "outcome",
+                "measures",
+                ":",
+                "The",
+                "main",
+                "outcome",
+                "under",
+                "investigation",
+                "was",
+                "the",
+                "completion",
+                "of",
+                "colorectal",
+                "cancer",
+                "screening",
+                "within",
+                "6",
+                "months",
+                "after",
+                "randomization",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "completion of colorectal cancer screening within 6 months after randomization"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

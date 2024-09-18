@@ -1,0 +1,62 @@
+{
+    "article_id": "30303873",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Primary outcome was length of theoretical hospital stay (LHS)."
+    ],
+    "registry_id": "NCT01959087",
+    "registry_primary_outcomes": [
+        "Length of postoperative hospital stay , 30 days"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Primary",
+                "outcome",
+                "was",
+                "length",
+                "of",
+                "theoretical",
+                "hospital",
+                "stay",
+                "(",
+                "LHS",
+                ")",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "length of theoretical hospital stay ( LHS )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

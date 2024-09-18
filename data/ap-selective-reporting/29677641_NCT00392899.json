@@ -1,0 +1,58 @@
+{
+    "article_id": "29677641",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary end-point was disease-free survival (DFS)."
+    ],
+    "registry_id": "NCT00392899",
+    "registry_primary_outcomes": [
+        "Disease-free survival , 9 years"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "end-point",
+                "was",
+                "disease-free",
+                "survival",
+                "(",
+                "DFS",
+                ")",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "disease-free survival ( DFS )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

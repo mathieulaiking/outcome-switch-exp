@@ -1,0 +1,159 @@
+{
+    "article_id": "PMC7640586",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [
+        "The primary outcome was progression-free survival (PFS).",
+        "Methods - Outcomes\nThe primary endpoint was PFS, defined as the time from randomisation to investigator-assessed disease progression according to Response Evaluation Criteria in Solid Tumours (RECIST), V.1.1, \n       15 or death from any cause."
+    ],
+    "registry_id": "NCT01640405",
+    "registry_primary_outcomes": [
+        "Progression free survival (PFS) , 5 years"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 1,
+            "tokens": [
+                "Methods",
+                "-",
+                "Outcomes",
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "PFS",
+                ",",
+                "defined",
+                "as",
+                "the",
+                "time",
+                "from",
+                "randomisation",
+                "to",
+                "investigator-assessed",
+                "disease",
+                "progression",
+                "according",
+                "to",
+                "Response",
+                "Evaluation",
+                "Criteria",
+                "in",
+                "Solid",
+                "Tumours",
+                "(",
+                "RECIST",
+                ")",
+                ",",
+                "V",
+                ".1.1",
+                ",",
+                "15",
+                "or",
+                "death",
+                "from",
+                "any",
+                "cause",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        },
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "outcome",
+                "was",
+                "progression-free",
+                "survival",
+                "(",
+                "PFS",
+                ")",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "PFS , defined as the time from randomisation to investigator-assessed disease progression according to Response Evaluation Criteria in Solid Tumours ( RECIST ) , V .1.1 , 15 or death from any cause",
+        "progression-free survival ( PFS )"
+    ],
+    "article2article_connections": [
+        [
+            0,
+            1,
+            true
+        ]
+    ],
+    "filtered_article_outcomes": [
+        "PFS , defined as the time from randomisation to investigator-assessed disease progression according to Response Evaluation Criteria in Solid Tumours ( RECIST ) , V .1.1 , 15 or death from any cause"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

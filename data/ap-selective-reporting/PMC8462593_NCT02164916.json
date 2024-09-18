@@ -1,0 +1,102 @@
+{
+    "article_id": "PMC8462593",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Abstract - RESULTS\nProgression-free survival, the primary end point, was improved with the addition of vemurafenib (hazard ratio, 0.50,  \n         P = .001)."
+    ],
+    "registry_id": "NCT02164916",
+    "registry_primary_outcomes": [
+        "PFS (Arms I and II) , From date of Step 2 Randomization to date of first documentation of progression or symptomatic deterioration, or death due to any cause, assessed up to 3 years",
+        "PFS (Crossover) , From date of Step 3 Crossover Registration to date of first documentation of progression or symptomatic deterioration, or death due to any cause, assessed up to 3 years"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "Yes",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "Yes",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Abstract",
+                "-",
+                "RESULTS",
+                "Progression-free",
+                "survival",
+                ",",
+                "the",
+                "primary",
+                "end",
+                "point",
+                ",",
+                "was",
+                "improved",
+                "with",
+                "the",
+                "addition",
+                "of",
+                "vemurafenib",
+                "(",
+                "hazard",
+                "ratio",
+                ",",
+                "0.50",
+                ",",
+                "P",
+                "=",
+                ".001",
+                ")",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "Progression-free survival"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        },
+        {
+            "article_index": 0,
+            "registry_index": 1,
+            "similar": true
+        }
+    ]
+}

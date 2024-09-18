@@ -1,0 +1,86 @@
+{
+    "article_id": "PMC6954294",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Primary outcome was adherence to the personal screening recommendation (to get screened or not to get screened) received from the website."
+    ],
+    "registry_id": "NCT02112747",
+    "registry_primary_outcomes": [
+        "Successfully following screening guidelines appropriate to the participant's risk profile , Up to 14 months"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Primary",
+                "outcome",
+                "was",
+                "adherence",
+                "to",
+                "the",
+                "personal",
+                "screening",
+                "recommendation",
+                "(",
+                "to",
+                "get",
+                "screened",
+                "or",
+                "not",
+                "to",
+                "get",
+                "screened",
+                ")",
+                "received",
+                "from",
+                "the",
+                "website",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "adherence to the personal screening recommendation ( to get screened or not to get screened ) received from the website"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

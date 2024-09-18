@@ -1,0 +1,158 @@
+{
+    "article_id": "PMC7408996",
+    "article_text_type": "fulltext",
+    "article_filtered_sentences": [
+        "Outcomes\nThe primary study outcome was improvement in anterior resection syndrome (ARS).",
+        "This primary endpoint was assessed using an established ARS questionnaire [ \n         13].",
+        "Primary and secondary outcomes were compared via a simple comparison between the two groups and through serial changes from the baseline visit."
+    ],
+    "registry_id": "NCT03531606",
+    "registry_primary_outcomes": [
+        "Anterior resection syndrome improvement change , 1 week before surgery, 4 weeks after surgery, 5 weeks after surgery"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "Yes",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "Yes",
+        "Description": "A/R Time frame"
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Outcomes",
+                "The",
+                "primary",
+                "study",
+                "outcome",
+                "was",
+                "improvement",
+                "in",
+                "anterior",
+                "resection",
+                "syndrome",
+                "(",
+                "ARS",
+                ")",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        },
+        {
+            "sentence_nb": 2,
+            "tokens": [
+                "Primary",
+                "and",
+                "secondary",
+                "outcomes",
+                "were",
+                "compared",
+                "via",
+                "a",
+                "simple",
+                "comparison",
+                "between",
+                "the",
+                "two",
+                "groups",
+                "and",
+                "through",
+                "serial",
+                "changes",
+                "from",
+                "the",
+                "baseline",
+                "visit",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        },
+        {
+            "sentence_nb": 1,
+            "tokens": [
+                "This",
+                "primary",
+                "endpoint",
+                "was",
+                "assessed",
+                "using",
+                "an",
+                "established",
+                "ARS",
+                "questionnaire",
+                "[",
+                "13",
+                "]",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "improvement in anterior resection syndrome ( ARS )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

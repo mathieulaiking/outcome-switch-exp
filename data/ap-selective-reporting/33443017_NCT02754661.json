@@ -1,0 +1,68 @@
+{
+    "article_id": "33443017",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary endpoint was diagnostic yield of polyps 6 mm with CCE or CTC."
+    ],
+    "registry_id": "NCT02754661",
+    "registry_primary_outcomes": [
+        "Diagnostic yield (proportion of subjects shown to have an actionable lesion, defined as any polyp or mass lesion \u22656 mm) by CCE as compared to CTC. Diagnostic yield of CCE/CTC will be calculated in relation to the confirmatory Optical colonoscopy results , 5-6 weeks from randomized procedure"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "endpoint",
+                "was",
+                "diagnostic",
+                "yield",
+                "of",
+                "polyps",
+                "6",
+                "mm",
+                "with",
+                "CCE",
+                "or",
+                "CTC",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "diagnostic yield of polyps 6 mm with CCE or CTC"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

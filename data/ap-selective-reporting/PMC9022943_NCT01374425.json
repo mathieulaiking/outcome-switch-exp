@@ -1,0 +1,155 @@
+{
+    "article_id": "PMC9022943",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "Primary objectives were to assess associations between (i) excision repair cross-complementing 1 (ERCC1) expression with progression-free survival (PFS), and (ii) plasma VEGF A (VEGF-A) with PFS in patients with previously untreated mCRC receiving mFOLFOX6-BV or FOLFIRI-BV."
+    ],
+    "registry_id": "NCT01374425",
+    "registry_primary_outcomes": [
+        "Progression-free survival (PFS) as determined by the investigator using RECIST, v1.1 , Time from randomization (baseline) to documented disease progression or death on study, whichever occurs first"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "Primary",
+                "objectives",
+                "were",
+                "to",
+                "assess",
+                "associations",
+                "between",
+                "(",
+                "i",
+                ")",
+                "excision",
+                "repair",
+                "cross-complementing",
+                "1",
+                "(",
+                "ERCC1",
+                ")",
+                "expression",
+                "with",
+                "progression-free",
+                "survival",
+                "(",
+                "PFS",
+                ")",
+                ",",
+                "and",
+                "(",
+                "ii",
+                ")",
+                "plasma",
+                "VEGF",
+                "A",
+                "(",
+                "VEGF-A",
+                ")",
+                "with",
+                "PFS",
+                "in",
+                "patients",
+                "with",
+                "previously",
+                "untreated",
+                "mCRC",
+                "receiving",
+                "mFOLFOX6",
+                "-",
+                "BV",
+                "or",
+                "FOLFIRI-BV",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "plasma VEGF A ( VEGF-A ) with PFS in patients with previously untreated mCRC receiving mFOLFOX6 - BV or FOLFIRI-BV",
+        "excision repair cross-complementing 1 ( ERCC1 ) expression with progression-free survival ( PFS )"
+    ],
+    "article2article_connections": [
+        [
+            0,
+            1,
+            false
+        ]
+    ],
+    "filtered_article_outcomes": [
+        "plasma VEGF A ( VEGF-A ) with PFS in patients with previously untreated mCRC receiving mFOLFOX6 - BV or FOLFIRI-BV",
+        "excision repair cross-complementing 1 ( ERCC1 ) expression with progression-free survival ( PFS )"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": false
+        },
+        {
+            "article_index": 1,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}

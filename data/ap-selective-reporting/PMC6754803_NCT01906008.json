@@ -1,0 +1,90 @@
+{
+    "article_id": "PMC6754803",
+    "article_text_type": "abstract",
+    "article_filtered_sentences": [
+        "The primary\nendpoint, area under the curve for numbness/tingling and fatigue over\napproximately 4 months, were compared between the 2 arms."
+    ],
+    "registry_id": "NCT01906008",
+    "registry_primary_outcomes": [
+        "Reduction of Acute Peripheral Neuropathy During Oxaliplatin-Based Chemotherapy , 4 months"
+    ],
+    "labels": {
+        "POS_identif_possible": "Yes",
+        "PO_switch": "No",
+        "PO_not_reported_registry": "No",
+        "PO_not_reported_publication": "No",
+        "POS_timeframe_metric": "No",
+        "Description": ""
+    },
+    "article_bio_outcomes": [
+        {
+            "sentence_nb": 0,
+            "tokens": [
+                "The",
+                "primary",
+                "endpoint",
+                ",",
+                "area",
+                "under",
+                "the",
+                "curve",
+                "for",
+                "numbness",
+                "/",
+                "tingling",
+                "and",
+                "fatigue",
+                "over",
+                "approximately",
+                "4",
+                "months",
+                ",",
+                "were",
+                "compared",
+                "between",
+                "the",
+                "2",
+                "arms",
+                "."
+            ],
+            "labels": [
+                "O",
+                "O",
+                "O",
+                "O",
+                "B-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "I-PrimaryOutcome",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O",
+                "O"
+            ]
+        }
+    ],
+    "article_outcomes_text": [
+        "area under the curve for numbness / tingling and fatigue over approximately 4 months"
+    ],
+    "article2registry_connections": [
+        {
+            "article_index": 0,
+            "registry_index": 0,
+            "similar": true
+        }
+    ]
+}
